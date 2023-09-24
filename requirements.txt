@@ -1,0 +1,17 @@
+Pyrogram==2.0.77
+tgcrypto
+requests
+pyromod==1.5
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
+ffmpeg
+lxml
+bs4
+gdown
+asyncio
+pycurl
